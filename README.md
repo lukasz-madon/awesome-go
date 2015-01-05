@@ -735,6 +735,7 @@ Where to discover new Go libraries.
 * [gowalker.org](https://gowalker.org) - Go Project API documentation.
 * [r/Golang](http://www.reddit.com/r/golang) - News about Go.
 * [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs. A lot of them is looking for Go hackers.
 
 ## Windows
 
